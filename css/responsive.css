@@ -206,9 +206,13 @@
         right: 0px;
     }
     .main_form {
-        padding: 40px 0px;
-        margin-right: 15px;
+    padding: 35px 30px;
+    width: 279px;
+    margin: 40px 25px;
     }
+#map {
+    display: none;
+  }
     .navigation.navbar {
         float: right;
         display: inherit !important;
